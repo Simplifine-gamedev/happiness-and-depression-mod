@@ -1,4 +1,4 @@
-# Happiness Mod
+# Happiness and Depression
 
 A Minecraft mod that adds a happiness/mood system. Your character's happiness drains in darkness and restores in sunlight.
 
@@ -37,6 +37,10 @@ A Minecraft mod that adds a happiness/mood system. Your character's happiness dr
 
 - [Modrinth](https://modrinth.com/mod/happiness-mod)
 - [CurseForge](https://www.curseforge.com/minecraft/mc-mods/happiness-and-depression)
+
+## Community
+
+Join our Discord: https://discord.gg/RPTCAcGwKa
 
 ## License
 
