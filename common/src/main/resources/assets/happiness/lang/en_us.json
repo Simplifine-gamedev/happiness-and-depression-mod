@@ -1,0 +1,18 @@
+{
+  "block.happiness.happiness_ore": "Happiness Ore",
+  "block.happiness.deepslate_happiness_ore": "Deepslate Happiness Ore",
+  "item.happiness.raw_happiness": "Raw Happiness",
+  "item.happiness.happiness_pill": "Happiness Pill",
+  "itemGroup.happiness.main": "Happiness",
+  
+  "happiness.mood.euphoric": "Euphoric",
+  "happiness.mood.happy": "Happy",
+  "happiness.mood.content": "Content",
+  "happiness.mood.melancholy": "Melancholy",
+  "happiness.mood.sad": "Sad",
+  "happiness.mood.depressed": "Depressed",
+  
+  "happiness.message.pill_consumed": "You feel a wave of happiness wash over you!",
+  "happiness.message.darkness_warning": "The darkness is affecting your mood...",
+  "happiness.message.sunlight_restored": "The warm sunlight lifts your spirits!"
+}

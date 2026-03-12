@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "happiness:raw_happiness"
+  },
+  "result": {
+    "id": "happiness:happiness_pill"
+  },
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "happiness",
+  "version": "${version}",
+  "name": "Happiness Mod",
+  "description": "Stay in the sunlight to keep your happiness up! Darkness drains your mood. Eat happiness pills to feel better!",
+  "authors": ["Orca"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/happiness/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.happiness.fabric.HappinessModFabric"],
+    "client": ["com.happiness.fabric.client.HappinessModFabricClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*",
+    "architectury": "*"
+  }
+}
